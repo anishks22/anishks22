@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish kumar
 - 👀 I’m interested in coding
 - 💞️ Currently, I am pursuing a B.Tech in Information Technology
-- 💞️ 4th Year Student(2023 Batch)
+- 💞️ 2023 Batch
 - 👀 Maulana Abul Kalam Azad University of Technology,WB (formerly known as West Bengal University of Technology (WBUT) )
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m a Java Developer 
