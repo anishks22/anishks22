@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anish kumar
 - 👀 I’m interested in coding
-- 💞️ Currently, I am pursuing a B.Tech in Information Technology
+- SDE-1 at Jio Platforms Limited
+- 💞️ B.Tech in Information Technology
 - 💞️ 2023 Batch
 - 👀 Maulana Abul Kalam Azad University of Technology,WB (formerly known as West Bengal University of Technology (WBUT) )
 - 🌱 I’m currently learning full stack development
