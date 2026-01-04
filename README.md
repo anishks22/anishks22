@@ -5,7 +5,8 @@
 - 💞️ 2023 Batch
 - 👀 Maulana Abul Kalam Azad University of Technology,WB (formerly known as West Bengal University of Technology (WBUT) )
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m a Java Developer 
+- 💞️ I’m a Java Developer
+- 💞️ I'm an AOSP Developer,Android developer
 - 📫 I'm looking for internship as well as full time job
 - 💞️ You can reach me via email - anish.aks121@gmail.com or phone- 7634996074
 
